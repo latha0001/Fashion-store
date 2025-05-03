@@ -1,8 +1,10 @@
 # Fashion Store
-
 A modern, responsive e-commerce web application built with TypeScript, Vite, and Tailwind CSS. This project serves as a template for online fashion retailers, offering a sleek and user-friendly interface.
-![Uploading Screenshot 2025-05-03 124441.png…]()
-![Uploading Screenshot 2025-05-03 124448.png…]()
+
+![Screenshot 2025-05-03 124441](https://github.com/user-attachments/assets/318687f8-aa73-426b-9736-3f67bf463636)
+
+![Screenshot 2025-05-03 124448](https://github.com/user-attachments/assets/6ef20e75-1b9e-4713-866c-d7198e5a8431)
+
 ## Features
 
 * **Responsive Design**: Ensures optimal viewing experience across various devices.

@@ -51,6 +51,9 @@ A modern, responsive e-commerce web application built with TypeScript, Vite, and
    ```
    http://localhost:5173
    ```
+5. **Deployment Link:**
+
+   https://dbfhueosfnm.vercel.app/
 
 ## Project Structure
 
